@@ -20,3 +20,7 @@ Summary: This project mimicks an audio player such as Apple Music or Spotify and
  3. Select the next or previous button to cycle through songs or just click
  another song title.
  4. Enjoy!
+ 
+ Note:
+ The libraries that need to be imported should be installed into Processing or else nothing will work.
+
